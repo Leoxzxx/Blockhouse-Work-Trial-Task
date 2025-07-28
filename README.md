@@ -1,2 +1,2 @@
-# Blockhouse-Work-Trial-Task
+# Blockhouse-Work-Trial-Task by Leo Xu
 The whole project is for Q1 in the Blockhouse work trial task. In this project, I use five models to esitmate the temporary impact gt(x). Since I only have one day to complete the project(due to the poor internet during the weeekend), this version still has some places to improve. If I have more to complete the project, I can try more irregular models to esitmate the temporary impact more accurately. The code here is to try 5 models:  Linear,  Square Root, Power Law, Quadratic,  Logarithmic. I tested each stocks individually. If you want to test the code, just change the DATA_DIR at the first block for changing the path of readind files. No need to change others anymore
